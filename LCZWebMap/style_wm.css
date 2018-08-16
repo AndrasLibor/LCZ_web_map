@@ -1,0 +1,124 @@
+<!--Setting style features of different HTML divs and elements-->
+
+html {
+    
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#header {
+    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    background: #0c4ca3;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+    
+}
+
+#header p {
+    
+    margin: 0px;
+    margin-top: 5px;
+    
+}
+
+#map {
+    
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    right: 30%;
+    bottom: 40px;
+    background: white;
+    
+}
+
+
+
+#attributes {
+    
+    position: absolute;
+    top: 40px;
+    left: 70%;
+    right: 0%;
+    bottom: 50%;   /* 40px */
+    background: white;
+    padding: 20px;
+    font: Verdana;
+    font-size: 10pt;
+    font-weight: bold;
+
+}
+
+#misc {
+    
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    right: 0%;
+    bottom: 40px;   /* 40px */
+    background: white;
+    padding: 20px;
+    font: Verdana;
+    font-size: 10pt;
+    font-weight: bold;
+    
+}
+
+#buttonStyleSwitch {
+    
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    background-color: #0c4ca3;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+#footer {
+    
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 45px;
+    background: #0c4ca3;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+h1 {
+    
+    font: italic Verdana;
+    font-size: 14pt;
+    font-weight: bold;
+    
+}
+
+h2 {
+    
+    font: Verdana;
+    font-size: 8pt;
+    
+}
