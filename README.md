@@ -19,4 +19,4 @@ The function of the web map is for the user to be able to inspect the different 
 
 The web maps JavaScript code uses to OpenLayers functions to visualize the vector feaures of GeoJSON file passed on to the map as a JavaScript variable. It also uses various basemaps that can be switched: 2 road maps and an aerial map. The map has additional elements, like scale bar and zoom slider. The application also has an attribute based style, which colors the vector features based on their LCZ type.
 
-The HTML, CSS and JavaScript codes can be found in the 
+The HTML, CSS and JavaScript codes can be found in the 'LCZWebMap' folder.
