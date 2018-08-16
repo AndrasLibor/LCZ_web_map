@@ -417,6 +417,8 @@ function drawMarker (posMarker) {
 }
 
 
+/*
+
 function styleSwitcher(){
         
         if (actualStyle == lczStyleFunction){
@@ -434,3 +436,4 @@ function styleSwitcher(){
         init();
         
     }
+    */
